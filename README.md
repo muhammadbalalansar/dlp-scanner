@@ -101,7 +101,7 @@ output:
   redaction_style: "partial"  # partial, full, none
 ```
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
