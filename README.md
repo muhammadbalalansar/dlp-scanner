@@ -85,7 +85,7 @@ dlp-scan report summary results.json         # print summary stats
 
 **Quality:** ruff, mypy (strict), yapf, pytest + hypothesis, structlog
 
-## Configuration
+## Configuration:
 
 Copy `.dlp-scanner.yml` to your project root and customize. Key settings:
 
