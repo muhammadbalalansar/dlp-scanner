@@ -16,7 +16,7 @@
 
 *This is a quick overview. Security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
-## What It Does
+## What It Does:
 
 - Scans files (PDF, DOCX, XLSX, CSV, JSON, XML, YAML, Parquet, Avro, archives, emails) for PII, credentials, financial data, and PHI
 - Scans databases (PostgreSQL, MySQL, MongoDB, SQLite) with schema introspection and sampling
