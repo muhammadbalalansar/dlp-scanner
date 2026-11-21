@@ -115,4 +115,4 @@ This project includes step-by-step learning materials covering security theory, 
 
 ## License
 
-[AGPLv3](https://www.gnu.org/licenses/agpl-3.0)
+[AGPLv3](https://www.gnu.org
